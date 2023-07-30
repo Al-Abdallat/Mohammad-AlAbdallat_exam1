@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>assignment 1a Solution</title>
+    <link rel="stylesheet" href="Assim1.css">
+    <h1 id="heading"> Our Menu</h1>
+</head>
+<body>
+    <div class="dish">
+        <div class="title1"><h3>Chicken</h3></div> 
+        <div class="price2"><h7>7 JD</h7></div>   
+        <p>
+            lorem ipsum dolor sit amet, consectetur<br>
+            adipisicing elit, sed do eiusmod tempor incididunt<br>
+            ut labore et dolore magna aliqua. Ut enim ad<br>
+            minim veniam, quis nostrud exercitation ullamco<br>
+            laboris nisi ut aliquip ex ea commodo <br>
+            consequat.
+            </p>
+        </div>
+    <div class="dish">
+        <div class="title2"><h4>Beef</h4></div>
+        <div class="price2"><h6>9 JD</h6></div>
+        <p>
+        lorem ipsum dolor sit amet, consectetur<br>
+        adipisicing elit, sed do eiusmod tempor<br>
+        incididunt ut labore et dolore magna aliqua. Ut<br> 
+        enim ad minim veniam, quis nostrud exercitation<br> 
+        ullamco laboris nisi ut aliquip ex ea commodo<br>
+        consequat.
+        </p>
+    </div>
+    <div class="dish">
+        <div class="title3"><h5>sushi</h5></div>
+        <div class="price 3"><h8> 8 JD</h8></div>
+        <p> 
+            lorem ipsum dolor sit amet, consectetur<br>
+            adipisicing elit, sed do eiusmod tempor<br>
+            incididunt ut labore et dolore magna aliqua. Ut<br> 
+            enim ad minim veniam, quis nostrud exercitation<br> 
+            ullamco laboris nisi ut aliquip ex ea commodo<br>
+            consequat.
+        </p>
+    </div>
+    </body>
+</html>
